@@ -10,7 +10,7 @@ After cloning/forking, simply run
 node index.js
 ```
 
-This will store the screenshots in the images directory.
+This script will check to see if there is an images directory and create one if necessary. It will then look for a directory with today's date year-month-date. If none exists, it will create it and put screenshots in the dated directory.
 
 ## How to specify which sites to grab
 
