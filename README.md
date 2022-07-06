@@ -7,6 +7,8 @@ If you've been looking for a way to automate grabing screenshots of websites, th
 After cloning/forking, simply run
 
 ```
+cd puppeteer
+yarn
 node index.js
 ```
 
